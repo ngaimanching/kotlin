@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kotlin_Listview</string>
+
+    <string-array name="language">
+        <item>C#</item>
+        <item>Java</item>
+        <item>Swift</item>
+        <item>Objective-C</item>
+        <item>HTML5</item>
+        <item>AngularJS</item>
+        <item>Kotlin</item>
+        <item>Javascript</item>
+        <item>MySQL</item>
+    </string-array>
+</resources>
